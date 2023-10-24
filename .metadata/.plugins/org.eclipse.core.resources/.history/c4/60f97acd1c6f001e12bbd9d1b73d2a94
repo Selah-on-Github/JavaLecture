@@ -1,0 +1,8 @@
+package chap12_interface.multiinherit;
+
+import chap12_interface.device.Display;
+import chap12_interface.device.Speaker;
+
+public interface Tv extends Speaker, Display {
+	void changeChannel(int channel); //보여주고 들려주는 
+}

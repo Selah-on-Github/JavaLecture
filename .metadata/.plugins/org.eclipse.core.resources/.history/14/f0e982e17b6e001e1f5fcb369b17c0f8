@@ -1,0 +1,11 @@
+package chap99_homework.hw231019.middle;
+
+public class UseArrayUtility {
+	public static void main(String[] args) {
+		
+		ArrayUtility array = new ArrayUtility();
+		
+		
+	}
+
+}

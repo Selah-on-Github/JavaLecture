@@ -1,0 +1,41 @@
+package chap99_homework.hw231019.animal;
+
+// 고양이과 클래스
+public abstract class TheCatFamily extends Mammal {
+	
+	public int volume;
+	
+	public TheCatFamily() {
+		volume = 1;
+		super();
+	}
+	
+//	public void eat () {
+//		System.out.println("고양이과는 식사를 한다.");
+//	}
+//	
+//	public void sleep() {
+//		System.out.println("고양이과는 누워서 잔다.");
+//	}
+	
+	
+	public void eat() {
+		System.out.println("고양이과는 새침하게 먹는대");
+	}
+	
+	public void sleep() {
+		System.out.println("고양이과는 어두운곳에서 자는걸 좋아한대");
+	}
+
+	
+	
+	public void bigVoice() {
+		this.volume++;
+	}
+	
+	public void smallVoice() {
+		this.volume--;
+	}
+	
+
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthToggleButtonUI"/>
+    <fullyQualifiedTypeName name="chap11_abstraction.tv.Tv"/>
+    <fullyQualifiedTypeName name="chap11_abstraction.tv.LgTv"/>
+    <fullyQualifiedTypeName name="chap11_abstraction.tv.SamsungTv"/>
+    <fullyQualifiedTypeName name="chap99_homework.hw231019.animal.Tiger"/>
+    <fullyQualifiedTypeName name="chap09_inherit.animal.Bird"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="chap07_class.board.Board"/>
+    <fullyQualifiedTypeName name="chap13_nestedclass.nestedclass.NestedClass"/>
+    <fullyQualifiedTypeName name="chap13_nestedclass.nestedclass.NestedClass.Mul"/>
+    <fullyQualifiedTypeName name="chap13_nestedclass.nestedclass.NestedClass.Div"/>
+    <fullyQualifiedTypeName name="chap13_nestedclass.nestedclass.LocalNestedClass"/>
+</qualifiedTypeNameHistroy>

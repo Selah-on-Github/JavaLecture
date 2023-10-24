@@ -1,0 +1,21 @@
+package chap11_abstraction.tv;
+
+public abstract class Tv {
+	
+	public int lastChannel;
+	
+	public String powerOn;
+	
+	public String powerOff;
+	
+	public int operate;
+	
+	public int moveTo;
+	
+	public int channelUp;
+	
+	public int channelDown;
+	
+	
+	
+}

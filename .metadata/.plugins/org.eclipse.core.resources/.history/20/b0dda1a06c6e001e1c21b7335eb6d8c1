@@ -1,0 +1,37 @@
+package chap99_homework.hw231019;
+
+import chap99_homework.hw231019.animal.Parent;
+
+public class ChildA extends Parent {
+	
+	public void lastName() {
+		System.out.println("ChildA의 이름 속성");
+	}
+
+	@Override
+	public void firstName(String fName) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void bloodType(String bType) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void height(int num) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void skinColor(String sColor) {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	
+
+}

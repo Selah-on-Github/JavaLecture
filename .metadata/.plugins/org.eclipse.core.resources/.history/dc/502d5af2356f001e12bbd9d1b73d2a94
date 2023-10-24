@@ -1,0 +1,13 @@
+package chap99_homework.hw231019.person;
+
+public abstract class Parent {
+	
+	//성씨, 혈액형, 키, 피부색
+	
+	public abstract void firstName(String fName);
+	public abstract void bloodType(String bType);
+	public abstract void height(int num);
+	public abstract void skinColor(String sColor);
+	
+
+}

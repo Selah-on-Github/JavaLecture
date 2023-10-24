@@ -1,0 +1,33 @@
+package chap99_homework.hw231019.animal;
+
+public class ChildB extends Parent {
+	
+	public void fingerPrint() { 
+		System.out.println("ChildB의 지문 속성");
+	}
+
+	@Override
+	public void firstName(String fName) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void bloodType(String bType) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void height(int num) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void skinColor(String sColor) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

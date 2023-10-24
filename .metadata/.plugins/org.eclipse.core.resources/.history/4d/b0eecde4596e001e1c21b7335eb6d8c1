@@ -1,0 +1,16 @@
+package chap99_homework.hw231019;
+
+import chap99_homework.hw231019.animal.Tiger;
+
+public class _01_Overriding {
+	
+	public static void main(String[] args) {
+		
+		Tiger tiger = new Tiger();
+		
+		tiger.eat();
+		tiger.sleep();
+		
+	}
+
+}

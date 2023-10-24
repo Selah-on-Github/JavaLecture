@@ -1,0 +1,5 @@
+package chap99_homework.hw231020.advance;
+
+public interface Student {
+
+}

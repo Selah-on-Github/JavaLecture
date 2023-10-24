@@ -1,0 +1,14 @@
+package chap99_homework.hw231020.advance;
+
+public class CommonStat {
+
+	
+	int sno;				//학번
+	String name;			//이름
+	String[] subject;		//과목
+	int[] finalExamScore;	//기말고사 점수
+
+	
+	
+	
+}

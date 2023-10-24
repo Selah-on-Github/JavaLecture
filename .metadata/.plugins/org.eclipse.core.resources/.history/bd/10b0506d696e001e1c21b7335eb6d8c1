@@ -1,0 +1,13 @@
+package chap99_homework.hw231019.animal;
+
+public class ChildB extends Parent {
+	
+	public void firstName() {
+		System.out.println("");
+	}
+	
+	public void lastName() {
+		System.out.println("ChildB에 이름속성");
+	}
+
+}

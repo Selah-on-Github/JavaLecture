@@ -1,0 +1,9 @@
+package chap99_homework.hw231019.animal;
+
+public abstract class Parent {
+	
+	public void roll() {
+		System.out.println("부모가 게임을 합니다.");
+	}
+
+}
